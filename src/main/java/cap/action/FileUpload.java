@@ -1,5 +1,4 @@
 package cap.action;
-
 import java.io.*;
 
 import static com.opensymphony.xwork2.Action.SUCCESS;
